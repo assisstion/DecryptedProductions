@@ -9,6 +9,7 @@ public interface DataAccess{
 	boolean isKeyDown(String key);
 	boolean isKeyUp(String key);
 	boolean isKeyPressed(String key);
+	//good job
 	
 	/*
 	 * 1 = left click
