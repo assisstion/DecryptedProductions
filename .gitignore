@@ -27,3 +27,5 @@ data/*
 # Mac Files #
 *.DS_Store
 /bin/
+
+ElevatorEscapeImpl/.classpath
